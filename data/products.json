@@ -1,11 +1,16 @@
-
 [
   {
     "id": "p1",
-    "name": { "fr": "TV Samsung 43''", "en": "Samsung TV 43''" },
+    "name": {
+      "fr": "TV Samsung 43''",
+      "en": "Samsung TV 43''"
+    },
     "category": "téléviseur",
     "condition": "neuf",
-    "description": { "fr": "Smart TV Full HD avec WiFi intégré, écran LED de 43 pouces", "en": "Smart Full HD TV with built-in WiFi, 43-inch LED screen" },
+    "description": {
+      "fr": "Smart TV Full HD avec WiFi intégré, écran LED de 43 pouces",
+      "en": "Smart Full HD TV with built-in WiFi, 43-inch LED screen"
+    },
     "price": 200000,
     "stock": 8,
     "image": "https://images.unsplash.com/photo-1593359677879-a4bb92f829d1?auto=format&fit=crop&w=500&q=80",
@@ -13,10 +18,16 @@
   },
   {
     "id": "p2",
-    "name": { "fr": "TV LG 55''", "en": "LG TV 55''" },
+    "name": {
+      "fr": "TV LG 55''",
+      "en": "LG TV 55''"
+    },
     "category": "téléviseur",
     "condition": "neuf",
-    "description": { "fr": "TV OLED 4K UHD avec HDR, écran de 55 pouces", "en": "4K UHD OLED TV with HDR, 55-inch screen" },
+    "description": {
+      "fr": "TV OLED 4K UHD avec HDR, écran de 55 pouces",
+      "en": "4K UHD OLED TV with HDR, 55-inch screen"
+    },
     "price": 350000,
     "stock": 5,
     "image": "https://images.unsplash.com/photo-1567690187548-f07b1d7bf5a9?auto=format&fit=crop&w=500&q=80",
@@ -24,10 +35,16 @@
   },
   {
     "id": "p3",
-    "name": { "fr": "PC Portable HP", "en": "HP Laptop" },
+    "name": {
+      "fr": "PC Portable HP",
+      "en": "HP Laptop"
+    },
     "category": "ordinateur",
     "condition": "neuf",
-    "description": { "fr": "Ordinateur portable 15.6'', Intel i5, 8GB RAM, 256GB SSD", "en": "15.6'' laptop, Intel i5, 8GB RAM, 256GB SSD" },
+    "description": {
+      "fr": "Ordinateur portable 15.6'', Intel i5, 8GB RAM, 256GB SSD",
+      "en": "15.6'' laptop, Intel i5, 8GB RAM, 256GB SSD"
+    },
     "price": 180000,
     "stock": 12,
     "image": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=500&q=80",
@@ -35,10 +52,16 @@
   },
   {
     "id": "p4",
-    "name": { "fr": "PC de Bureau Dell", "en": "Dell Desktop PC" },
+    "name": {
+      "fr": "PC de Bureau Dell",
+      "en": "Dell Desktop PC"
+    },
     "category": "ordinateur",
     "condition": "occasion",
-    "description": { "fr": "PC de bureau complet avec écran 21'', Intel i3, 4GB RAM", "en": "Complete desktop PC with 21'' monitor, Intel i3, 4GB RAM" },
+    "description": {
+      "fr": "PC de bureau complet avec écran 21'', Intel i3, 4GB RAM",
+      "en": "Complete desktop PC with 21'' monitor, Intel i3, 4GB RAM"
+    },
     "price": 120000,
     "stock": 3,
     "image": "https://images.unsplash.com/photo-1547394765-185e1e68f34e?auto=format&fit=crop&w=500&q=80",
@@ -46,10 +69,16 @@
   },
   {
     "id": "p5",
-    "name": { "fr": "TV Sony 65''", "en": "Sony TV 65''" },
+    "name": {
+      "fr": "TV Sony 65''",
+      "en": "Sony TV 65''"
+    },
     "category": "téléviseur",
     "condition": "occasion",
-    "description": { "fr": "Smart TV 4K avec Android TV, écran de 65 pouces", "en": "4K Smart TV with Android TV, 65-inch screen" },
+    "description": {
+      "fr": "Smart TV 4K avec Android TV, écran de 65 pouces",
+      "en": "4K Smart TV with Android TV, 65-inch screen"
+    },
     "price": 280000,
     "stock": 2,
     "image": "https://images.unsplash.com/photo-1593359677879-a4bb92f829d1?auto=format&fit=crop&w=500&q=80",
@@ -57,13 +86,36 @@
   },
   {
     "id": "p6",
-    "name": { "fr": "MacBook Air", "en": "MacBook Air" },
+    "name": {
+      "fr": "MacBook Air",
+      "en": "MacBook Air"
+    },
     "category": "ordinateur",
     "condition": "neuf",
-    "description": { "fr": "MacBook Air M1, 13.3'', 8GB RAM, 256GB SSD", "en": "MacBook Air M1, 13.3'', 8GB RAM, 256GB SSD" },
+    "description": {
+      "fr": "MacBook Air M1, 13.3'', 8GB RAM, 256GB SSD",
+      "en": "MacBook Air M1, 13.3'', 8GB RAM, 256GB SSD"
+    },
     "price": 450000,
     "stock": 6,
     "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?auto=format&fit=crop&w=500&q=80",
     "createdBy": "admin"
+  },
+  {
+    "name": {
+      "fr": "Télé Coco 2",
+      "en": "Télé Coco 1"
+    },
+    "category": "téléviseur",
+    "condition": "occasion",
+    "description": {
+      "fr": "Télé",
+      "en": "Télé"
+    },
+    "price": 59600,
+    "stock": 20,
+    "image": "https://raw.githubusercontent.com/ngajulp/externaldata/main/images/img_1750767416962_z9ntibnf2.jpeg",
+    "createdBy": "admin",
+    "id": "p1750767427013"
   }
 ]
