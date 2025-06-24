@@ -1,0 +1,31 @@
+
+[
+  {
+    "id": "s1",
+    "productId": "p1",
+    "productName": "TV Samsung 43''",
+    "quantity": 1,
+    "unitPrice": 200000,
+    "totalPrice": 180000,
+    "discountPercentage": 10,
+    "buyer": "Jean MOUMI",
+    "seller": "admin",
+    "saleDate": "2024-06-20T10:30:00Z",
+    "prospectionTime": 2,
+    "category": "téléviseur"
+  },
+  {
+    "id": "s2",
+    "productId": "p3",
+    "productName": "PC Portable HP",
+    "quantity": 1,
+    "unitPrice": 180000,
+    "totalPrice": 170000,
+    "discountPercentage": 5.56,
+    "buyer": "Marie NGONO",
+    "seller": "admin",
+    "saleDate": "2024-06-18T14:15:00Z",
+    "prospectionTime": 1,
+    "category": "ordinateur"
+  }
+]
