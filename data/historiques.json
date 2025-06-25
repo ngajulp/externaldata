@@ -1,1 +1,11 @@
-
+[
+  {
+    "id": "audit_1750851770471",
+    "userId": "1",
+    "username": "admin",
+    "action": "logout",
+    "timestamp": "2025-06-25T11:42:50.471Z",
+    "ipAddress": "N/A",
+    "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
+  }
+]
