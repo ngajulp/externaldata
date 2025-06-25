@@ -1,5 +1,15 @@
 [
   {
+    "id": "audit_1750856588178_2weps8jnc",
+    "userId": "u1",
+    "username": "admin",
+    "action": "login",
+    "details": "Connexion réussie",
+    "timestamp": "2025-06-25T13:03:08.178Z",
+    "ipAddress": "N/A",
+    "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
+  },
+  {
     "id": "audit_1750855580830_fypdd8tr4",
     "userId": "1",
     "username": "admin",
