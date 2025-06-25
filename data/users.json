@@ -4,7 +4,7 @@
     "username": "admin",
     "email": "admin@example.com",
     "role": "admin",
-    "password": "d30c3b1b232d1d5c6c2681adf8f8323968bb63b49a3eecbf9ed5982cdff211c6",
+    "password": "$2a$10$1/feoGLZMpX49N4v46xZVO.1FrNY5MvTz1FY9Q63CnpUsWhAJ64Zu",
     "createdAt": "2024-01-01T00:00:00Z",
     "lastLogin": "2024-06-23T10:00:00Z"
   },
@@ -12,7 +12,7 @@
     "username": "ngajulp",
     "email": "ngajulp@gmail.com",
     "role": "admin",
-    "password": "d30c3b1b232d1d5c6c2681adf8f8323968bb63b49a3eecbf9ed5982cdff211c6",
+    "password": "$2a$10$1/feoGLZMpX49N4v46xZVO.1FrNY5MvTz1FY9Q63CnpUsWhAJ64Zu",
     "id": "u1750848986219",
     "createdAt": "2025-06-25T10:56:26.219Z"
   }
