@@ -6,5 +6,13 @@
     "role": "admin",
     "createdAt": "2024-01-01T00:00:00Z",
     "lastLogin": "2024-06-23T10:00:00Z"
+  },
+  {
+    "username": "ngajulp",
+    "email": "ngajulp@gmail.com",
+    "role": "admin",
+    "password": "c4d490df357b162cc3347adb9b24c1f89dd2c23b7a463ba5bd1242f8382b7152",
+    "id": "u1750848986219",
+    "createdAt": "2025-06-25T10:56:26.219Z"
   }
 ]
