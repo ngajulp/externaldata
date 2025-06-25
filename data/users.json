@@ -4,6 +4,7 @@
     "username": "admin",
     "email": "admin@example.com",
     "role": "admin",
+    "password": "c4d490df357b162cc3347adb9b24c1f89dd2c23b7a463ba5bd1242f8382b7152",
     "createdAt": "2024-01-01T00:00:00Z",
     "lastLogin": "2024-06-23T10:00:00Z"
   },
