@@ -16,4 +16,13 @@
     "id": "u1750848986219",
     "createdAt": "2025-06-25T10:56:26.219Z"
   }
+  ,
+  {
+    "username": "stockUser",
+    "email": "ngajulp01@gmail.com",
+    "role": "utilisateur",
+    "password": "$2a$10$pFURInXIJO8BczWHdYgjW.su/DqtFsVS9oJ5iT98H5ql73hqZfMm6",
+    "id": "u1750848986219",
+    "createdAt": "2025-06-25T10:56:26.219Z"
+  }
 ]
