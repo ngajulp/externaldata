@@ -1,0 +1,18 @@
+[
+  {
+    "id": "tax_1",
+    "name": "TVA Standard",
+    "rate": 19.25,
+    "description": "Taux de TVA standard au Cameroun",
+    "isActive": true,
+    "createdAt": "2025-07-01T05:51:17.709Z"
+  },
+  {
+    "id": "tax_2",
+    "name": "Exonéré",
+    "rate": 0,
+    "description": "Pas de TVA",
+    "isActive": true,
+    "createdAt": "2025-07-01T05:51:17.709Z"
+  }
+]
