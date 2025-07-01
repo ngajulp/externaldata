@@ -1,0 +1,13 @@
+[
+  {
+    "id": "template_1",
+    "name": "Modèle par défaut",
+    "isDefault": true,
+    "headerColor": "#2563eb",
+    "accentColor": "#3b82f6",
+    "showLogo": true,
+    "footerText": "Merci pour votre confiance",
+    "paymentInstructions": "Paiement à effectuer sous 30 jours",
+    "createdAt": "2025-07-01T05:51:29.076Z"
+  }
+]
