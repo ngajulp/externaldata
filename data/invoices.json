@@ -1,0 +1,54 @@
+[
+  {
+    "customerId": "c_1751459116664",
+    "customerName": "Joseoh Assoh",
+    "customerEmail": "joseph@gmail.com",
+    "customerAddress": "Joseph Camphoa",
+    "customerPhone": "",
+    "invoiceDate": "2025-07-02T00:00:00.000Z",
+    "dueDate": "2025-07-10T00:00:00.000Z",
+    "status": "sent",
+    "notes": "",
+    "paymentTerms": "30 jours",
+    "createdBy": "admin",
+    "items": [
+      {
+        "id": "1",
+        "productName": "Texte",
+        "description": "",
+        "quantity": 1,
+        "unitPrice": 180000,
+        "taxRateId": "",
+        "taxRate": 0,
+        "taxAmount": 0,
+        "totalPrice": 180000
+      },
+      {
+        "id": "1751459235219",
+        "productName": "Texte2",
+        "description": "",
+        "quantity": 1,
+        "unitPrice": 350000,
+        "taxRateId": "",
+        "taxRate": 0,
+        "taxAmount": 0,
+        "totalPrice": 350000
+      }
+    ],
+    "subtotal": 530000,
+    "totalTax": 0,
+    "totalAmount": 530000,
+    "companyInfo": {
+      "name": "Electronique +",
+      "address": "Yassa, Douala , Cameroon",
+      "phone": "+237696881799",
+      "email": "ngajulp@gmail.com",
+      "logo": "https://raw.githubusercontent.com/ngajulp/externaldata/main/images/img_1751458348413_ieoie1rvo.ico",
+      "commerceRegister": "XTFRDD 0000"
+    },
+    "id": "inv_1751459271179",
+    "invoiceNumber": "INV-202507-0001",
+    "createdAt": "2025-07-02T12:27:51.179Z",
+    "updatedAt": "2025-07-02T12:27:51.179Z"
+  }
+]
