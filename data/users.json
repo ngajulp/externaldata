@@ -3,26 +3,9 @@
     "id": "u1",
     "username": "admin",
     "email": "admin@example.com",
+    "password": "$2b$10$yFB8OnQbUc.KEXYTt5fzSOc4To1m2wN1rY7KfKVCJE2Fw/2W7CtXC",
     "role": "admin",
-    "password": "$2a$10$hrdGhIagMSvVSwFwdODLpu4ENdphja4bW8R6r838Un6ENYR.xEvve",
     "createdAt": "2024-01-01T00:00:00Z",
     "lastLogin": "2024-06-23T10:00:00Z"
-  },
-  {
-    "username": "ngajulp",
-    "email": "ngajulp@gmail.com",
-    "role": "admin",
-    "password": "$2a$10$ubOn7XsznjUheY10vovB/eLCF95Lssl4GUN4II4uUWJf.CbQtanbm",
-    "id": "u1750848986219",
-    "createdAt": "2025-06-25T10:56:26.219Z"
-  }
-  ,
-  {
-    "username": "stockUser",
-    "email": "ngajulp01@gmail.com",
-    "role": "utilisateur",
-    "password": "$2a$10$pFURInXIJO8BczWHdYgjW.su/DqtFsVS9oJ5iT98H5ql73hqZfMm6",
-    "id": "u1750848986219",
-    "createdAt": "2025-06-25T10:56:26.219Z"
   }
 ]
