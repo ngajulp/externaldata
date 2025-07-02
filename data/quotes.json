@@ -1,0 +1,46 @@
+[
+  {
+    "customerId": "c_1751459116664",
+    "customerName": "Joseoh Assoh",
+    "customerEmail": "joseph@gmail.com",
+    "customerAddress": "Joseph Camphoa",
+    "customerPhone": "",
+    "customerLogo": "https://raw.githubusercontent.com/ngajulp/externaldata/main/images/img_1751459102250_1fnyi36k6.PNG",
+    "quoteDate": "2025-07-02T00:00:00.000Z",
+    "validUntil": "2025-07-11T00:00:00.000Z",
+    "status": "sent",
+    "notes": "",
+    "paymentTerms": "30 jours",
+    "createdBy": "admin",
+    "items": [
+      {
+        "id": "1",
+        "productName": "Nom",
+        "description": "",
+        "quantity": 1,
+        "unitPrice": 350000,
+        "discount": 0,
+        "taxRateId": "tax_1",
+        "taxRate": 19.25,
+        "taxAmount": 67375,
+        "totalPrice": 417375
+      }
+    ],
+    "subtotal": 350000,
+    "totalDiscount": 0,
+    "totalTax": 67375,
+    "totalAmount": 417375,
+    "companyInfo": {
+      "name": "Electronique +",
+      "address": "Yassa, Douala , Cameroon",
+      "phone": "+237696881799",
+      "email": "ngajulp@gmail.com",
+      "logo": "https://raw.githubusercontent.com/ngajulp/externaldata/main/images/img_1751458348413_ieoie1rvo.ico",
+      "commerceRegister": "XTFRDD 0000"
+    },
+    "id": "quote_1751459616461",
+    "quoteNumber": "DEV-202507-0001",
+    "createdAt": "2025-07-02T12:33:36.461Z",
+    "updatedAt": "2025-07-02T12:33:36.461Z"
+  }
+]
